@@ -1,13 +1,12 @@
 {
   "modsknown": [
     "UnlockAllSecrets",
-    "Better_UX",
-    "WeaponBash",
     "RandomEnemyGenerator",
     "modernization_port_by_lil_zalupa"
   ],
   "creatorknown": [
     "wnunnuns",
-    "newtest"
+    "newtest",
+    "jc_mods"
   ]
 }
