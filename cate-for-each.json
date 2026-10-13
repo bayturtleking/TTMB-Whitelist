@@ -23,8 +23,17 @@
     "RandomUnit", "TABSGodMod", "SuperBoxerPlus", "HARDBARDS",
     "DeflectShieldGod"
   ],
-  "Abilities and Cosmetics": [
-    "Mobility_Abilities", "Shining_Years_And_Days", "BulletproofSKills", "Turtle's Ability Loader (C#)", "AbilityCreator"
+  "Abilities and Gear/Cosmetics": [
+    "Mobility_Abilities", "Shining_Years_And_Days", "BulletproofSKills", "Turtle's Ability Loader (C#)", "AbilityCreator", "Runic_Spells", "Azzymoof_Historical_Weapon_Pack", "Thanos", "Randomstuff", "Longrangebullet"
+  ],
+    "Unit creator": [
+    "BaseModelSearch", "Mirror_Color_Fix",
+    "Crawl_Braised_Ducks_UC_Kit", "TabsSkinColorMod", "Prop_Editor", "BeeCreative",
+    "TechnicalItems", "ConfigurableWeaponData", "MorePalette", "Custom_Palette",
+    "Final_6", "AbilityCreator", "UnlimitedClothes",
+    "MoveEditor", "ColorFulUC", "Wasteland_Robots",
+    "UCM", "UnitCreator", "EasyEditor", "Stitched_Items",
+    "ClothCollider", "MoveEditorTool", "Unit_Appearance_Reset"
   ],
   "Quality of Life": [
     "FactionUnitSort", "FactionScroll", "Combat_Stats_Tracker", "UnlockAllSecrets",
@@ -34,15 +43,6 @@
     "StarStamped", "Zeropurchase", "TeamColorChange", "DamageIndicator",
     "FPS_Counter_Mod", "SpookySort", "FailedLoadFix", "KeepTheSecrets",
     "Reinforcements", "VanillaPlus"
-  ],
-  "Unit creator": [
-    "BaseModelSearch", "Runic_Spells", "Randomstuff", "Mirror_Color_Fix",
-    "Crawl_Braised_Ducks_UC_Kit", "TabsSkinColorMod", "Prop_Editor", "BeeCreative",
-    "TechnicalItems", "ConfigurableWeaponData", "MorePalette", "Custom_Palette",
-    "Final_6", "AbilityCreator", "Azzymoof_Historical_Weapon_Pack", "UnlimitedClothes",
-    "Longrangebullet", "MoveEditor", "ColorFulUC", "Wasteland_Robots",
-    "UCM", "UnitCreator", "EasyEditor", "Stitched_Items",
-    "ClothCollider", "Thanos", "MoveEditorTool", "Unit_Appearance_Reset"
   ],
   "Performance": [
     "More_FPS", "Quick_Boost", "Smelter", "Hide_The_Evidence",
