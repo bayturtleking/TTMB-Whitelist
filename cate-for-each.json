@@ -49,7 +49,7 @@
     "Optimized", "LogReducer"
   ],
   "Localization": [
-    "ChineseTranslationForSomeMods", "tabs_Korean_translation", "Arabic", "ArabicLocalization"
+    "ChineseTranslationForSomeMods", "tabs_Korean_translation", "Arabic", "ArabicLocalization", "TABS_Korean_Localization"
   ],
   "Addons for Mods": [
     "CustomContent_RoguelikeMode_Patch", "Skill_Control_Fix", "Quick_Boost"
