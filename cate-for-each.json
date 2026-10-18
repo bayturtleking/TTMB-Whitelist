@@ -54,7 +54,7 @@
     "ChineseTranslationForSomeMods", "tabs_Korean_translation", "Arabic", "ArabicLocalization", "TABS_Korean_Localization"
   ],
   "Addons for Mods": [
-    "CustomContent_RoguelikeMode_Patch", "Skill_Control_Fix", "Quick_Boost"
+    "CustomContent_RoguelikeMode_Patch", "Skill_Control_Fix", "Quick_Boost", "SLMA_Core_Fix"
   ],
   "Gamemodes": [
     "RoguelikeMode", "FreeForAll"
