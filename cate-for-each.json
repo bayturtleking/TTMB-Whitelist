@@ -33,7 +33,8 @@
     "Final_6", "AbilityCreator", "UnlimitedClothes",
     "MoveEditor", "ColorFulUC", "Wasteland_Robots",
     "UCM", "UnitCreator", "EasyEditor", "Stitched_Items",
-    "ClothCollider", "MoveEditorTool", "Unit_Appearance_Reset"
+    "ClothCollider", "MoveEditorTool", "Unit_Appearance_Reset",
+    "Better_Tracing"
   ],
   "Quality of Life": [
     "FactionUnitSort", "FactionScroll", "Combat_Stats_Tracker", "UnlockAllSecrets",
