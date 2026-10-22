@@ -1,6 +1,7 @@
 {
   "modsknown": [
     "UnlockAllSecrets",
+    "cost_renovation",
     "RandomEnemyGenerator"
   ],
   "creatorknown": [
