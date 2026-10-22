@@ -44,7 +44,7 @@
     "fixmod", "PSE_Fix", "FactionSelectorPatch", "DangeModUnlockAll",
     "StarStamped", "Zeropurchase", "TeamColorChange", "DamageIndicator",
     "FPS_Counter_Mod", "SpookySort", "FailedLoadFix", "KeepTheSecrets",
-    "Reinforcements", "VanillaPlus"
+    "Reinforcements", "VanillaPlus", "Totally_Accurate_Quality_of_Life"
   ],
   "Performance": [
     "More_FPS", "Quick_Boost", "Smelter", "Hide_The_Evidence",
