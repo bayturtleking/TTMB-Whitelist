@@ -15,13 +15,13 @@
     "Interesting_Units", "Missing_Content", "ChouChou_s_Unit", "HiddenUnits",
     "MoreRandomunits", "BeybladeRevamped", "MULTIVERSE", "BlackMod_Slime", "Submerged", "ModernizationPortFullAuto"
   ],
-  "Unit": [
+  "Unit or Unit Related": [
     "Dim1", "Hacker_Peasant", "HackerX", "TheDudeV1",
     "Scp173", "R2M", "TABSKingMod", "ChickenSoldiers",
     "WIP", "Home_Style_Wendigo_Birthday", "FlameHua_Birthday", "LegendsQuest",
     "JieBro", "AntMan", "ChickBeautiful", "SummonerCreator",
     "RandomUnit", "TABSGodMod", "SuperBoxerPlus", "HARDBARDS",
-    "DeflectShieldGod"
+    "DeflectShieldGod", "cost_renovation"
   ],
   "Abilities and Gear/Cosmetics": [
     "Mobility_Abilities", "Shining_Years_And_Days", "BulletproofSKills", "Turtle's Ability Loader (C#)", "AbilityCreator", "Runic_Spells", "Azzymoof_Historical_Weapon_Pack", "Thanos", "Randomstuff", "Longrangebullet",
