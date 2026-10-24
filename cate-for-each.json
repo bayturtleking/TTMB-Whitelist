@@ -45,7 +45,7 @@
     "fixmod", "PSE_Fix", "FactionSelectorPatch", "DangeModUnlockAll",
     "StarStamped", "Zeropurchase", "TeamColorChange", "DamageIndicator",
     "FPS_Counter_Mod", "SpookySort", "FailedLoadFix", "KeepTheSecrets",
-    "Reinforcements", "VanillaPlus", "Totally_Accurate_Quality_of_Life"
+    "Reinforcements", "VanillaPlus", "Totally_Accurate_Quality_of_Life",
   ],
   "Performance": [
     "More_FPS", "Quick_Boost", "Smelter", "Hide_The_Evidence",
@@ -60,12 +60,15 @@
   "Gamemodes": [
     "RoguelikeMode", "FreeForAll"
   ],
+    "Online": [
+    "Online_Mod_Plus_TABS", "Online_Mod"
+  ],
   "Maps and Map Tools": [
     "Map_Editing_extender", "MapMayhem", "Unbound_Terrain", "Lost_Territories_Preview", "Memento_Pueritiae"
   ],
   "Other": [
     "TABS_Cinematic_Overhaul", "CustomMusic", "FantasyDefinitive", "AbyssalEyeMod",
-    "Conquest_Mode_beta", "Online_Mod", "FourTeams",
+    "Conquest_Mode_beta", "FourTeams",
      "Foreign_forces", "Zero",
     "MoreGraphics", "TGCore", "ApproachGod", "Outline_Patch",
     "Ultra_Tabs_Mod_Pack", "Peak_Tabs_Mod_Pack", "ProjectileForce", "WeaponBash",
