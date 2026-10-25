@@ -58,7 +58,7 @@
     "CustomContent_RoguelikeMode_Patch", "Skill_Control_Fix", "Quick_Boost", "SLMA_Core_Fix"
   ],
   "Gamemodes": [
-    "RoguelikeMode", "FreeForAll"
+    "RoguelikeMode", "FreeForAll", "GladiatorManager"
   ],
     "Online": [
     "Online_Mod_Plus_TABS", "Online_Mod"
