@@ -6,7 +6,7 @@
     "Medieval2Spookified", "strange_thing", "Anime_Tabs", "DanJoMeShi",
     "Chinese_myth", "ColonialFaction", "Expansionary", "Nomads",
     "Shuidimension", "Martial_Mod", "NarutoMod", "AnimalKingdom",
-    "JoJoMod", "PopCulture", "TerrariaMod", "Neon_Empire",
+    "JoJoMod", "PopCulture", "TerrariaMod", "Neon_Empire", "HorizonCarMod",
     "DuogeChinaMod", "SpyxFamily", "kingdomRush", "ChineseDynasties",
     "Dark_Void_Faction", "Star_Wars_Civil_War_TASW", "Random_Units", "DeflectGods",
     "MySecrectUnits", "TASWGalacticCivilWar", "Rome", "MiddleEarthRing",
@@ -17,7 +17,7 @@
     "ZombieMod"
   ],
   "Unit or Unit Related": [
-    "Dim1", "Hacker_Peasant", "HackerX", "TheDudeV1",
+    "Dim1", "Hacker_Peasant", "StarFan_Birthday", "HackerX", "TheDudeV1",
     "Scp173", "R2M", "TABSKingMod", "ChickenSoldiers",
     "WIP", "Home_Style_Wendigo_Birthday", "FlameHua_Birthday", "LegendsQuest",
     "JieBro", "AntMan", "ChickBeautiful", "SummonerCreator",
@@ -64,7 +64,7 @@
     "Online_Mod_Plus_TABS", "Online_Mod"
   ],
   "Maps and Map Tools": [
-    "Map_Editing_extender", "MapMayhem", "Unbound_Terrain", "Lost_Territories_Preview", "Memento_Pueritiae"
+    "Map_Editing_extender", "MapMayhem", "Unbound_Terrain", "Lost_Territories_Preview", "Memento_Pueritiae", "PirateSpookified"
   ],
   "Other": [
     "TABS_Cinematic_Overhaul", "CustomMusic", "FantasyDefinitive", "AbyssalEyeMod",
