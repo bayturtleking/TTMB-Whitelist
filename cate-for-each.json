@@ -9,6 +9,7 @@
     "JoJoMod", "PopCulture", "TerrariaMod", "Neon_Empire", "HorizonCarMod",
     "DuogeChinaMod", "SpyxFamily", "kingdomRush", "ChineseDynasties",
     "Dark_Void_Faction", "Star_Wars_Civil_War_TASW", "Random_Units", "DeflectGods",
+    "Naruto", "Anime_Girls", 
     "MySecrectUnits", "TASWGalacticCivilWar", "Rome", "MiddleEarthRing",
     "mythologymod", "SpookifiedMod", "modHalloweenUnits", "Expansionary_SimpleModified",
     "Intreasting_Units", "Powerful_units", "MedievalPlus", "Zer0sUnits",
@@ -58,7 +59,7 @@
     "CustomContent_RoguelikeMode_Patch", "Skill_Control_Fix", "Quick_Boost", "SLMA_Core_Fix", "Revert_Seraphim_Nerf"
   ],
   "Gamemodes": [
-    "RoguelikeMode", "FreeForAll", "GladiatorManager"
+    "RoguelikeMode", "FreeForAll", "GladiatorManager", "MarathonMode"
   ],
     "Online": [
     "Online_Mod_Plus_TABS", "Online_Mod"
