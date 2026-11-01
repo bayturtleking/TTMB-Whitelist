@@ -1,4 +1,7 @@
 {
+  "Essential": [
+    "BepInExPack_TABS", "r2modman"
+  ],
   "Faction": [
     "modernization_port_by_lil_zalupa", "MarvelPrototype", "MilitaryForces", "HeMoDingDing_Mod",
     "Holiday", "Minecraft_in_TABS", "Zombiemod", "Cursed_Army_Of_Volumnia",
@@ -50,7 +53,7 @@
   ],
   "Performance": [
     "More_FPS", "Quick_Boost", "Smelter", "Hide_The_Evidence",
-    "Optimized", "LogReducer", "No_Particles"
+    "Optimized", "LogReducer", "No_Particles", "AntiLagMod"
   ],
   "Localization": [
     "ChineseTranslationForSomeMods", "tabs_Korean_translation", "Arabic", "ArabicLocalization", "TABS_Korean_Localization"
@@ -67,6 +70,9 @@
   "Maps and Map Tools": [
     "Map_Editing_extender", "MapMayhem", "Unbound_Terrain", "Lost_Territories_Preview", "Memento_Pueritiae", "PirateSpookified"
   ],
+  "Developer Tool": [
+      "TABS_Camo_Creator_Prototype", "ModdingForDummies", "CASA", "CASA_Template"
+  ],
   "Other": [
     "TABS_Cinematic_Overhaul", "CustomMusic", "FantasyDefinitive", "AbyssalEyeMod",
     "Conquest_Mode_beta", "FourTeams",
@@ -79,16 +85,17 @@
     "GUM", "FreeAim", "TABSUnlimited",
     "Mod_Pack_CAZUNOT", "More_gift_genie", "Mod_Pack_GODENOT", "WesternHoliday",
     "Parkour", "Cinematic_Hit", "UFoxSettingsCore", "SkyboxChange",
-    "CASA", "CASA_Template", "Oldunitsstrengthened", "CommandMod",
+     "Oldunitsstrengthened", "CommandMod",
     "KorkiaBT", "NegativesModpack", "DaltsandMarquioUnitpack__READ_DESC",
     "UnitsSummoner", "DaltsMODPACKforTABS", "MeleeDeflect", "the_potato_mans_mod",
     "DimNeon", "SwingTrail", "LivingSiege", "RestInPieces",
     "NewYearMod", "FatMaker", "SLMACore", "GIFTS_for_April_Fools_Day_by_FhpSlime",
-    "ForGlory", "Gore_System", "Bloodlust", "ModdingForDummies", "NavCheck", "SFT", "ToyBox",
+    "ForGlory", "Gore_System", "Bloodlust", "NavCheck", "SFT", "ToyBox",
     "WhereIsMyHat", "NoVariation", "Chickenification", "ClubmasterMod",
     "Hackerblock", "Ancientstrengthen", "MetalMetals",
     "IceG", "Lasagna", "Strengthenedtwooldmilitaryunits", "STAWE",
     "RealValkyrie", "Negatives_Modpack", "MinecraftHurtVisuals", "UFoxLib",
+    "TABSAimod", 
     "RemovedContentMod", "FhpSLibrary", "BreakHead", "UMT",
     "Rebalancing", "Infiniteblock", "YesTribalstrengthening", "Tribalstrengthening",
     "IceAndFireBuff"
