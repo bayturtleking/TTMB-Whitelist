@@ -12,7 +12,7 @@
     "JoJoMod", "PopCulture", "TerrariaMod", "Neon_Empire", "HorizonCarMod",
     "DuogeChinaMod", "SpyxFamily", "kingdomRush", "ChineseDynasties",
     "Dark_Void_Faction", "Star_Wars_Civil_War_TASW", "Random_Units", "DeflectGods",
-    "Naruto", "Anime_Girls", 
+    "Naruto", "Anime_Girls", "CyberTABS",
     "MySecrectUnits", "TASWGalacticCivilWar", "Rome", "MiddleEarthRing",
     "mythologymod", "SpookifiedMod", "modHalloweenUnits", "Expansionary_SimpleModified",
     "Intreasting_Units", "Powerful_units", "MedievalPlus", "Zer0sUnits",
@@ -68,7 +68,7 @@
     "Online_Mod_Plus_TABS", "Online_Mod"
   ],
   "Maps and Map Tools": [
-    "Map_Editing_extender", "MapMayhem", "Unbound_Terrain", "Lost_Territories_Preview", "Memento_Pueritiae", "PirateSpookified"
+    "Map_Editing_extender", "MapMayhem", "Unbound_Terrain", "Lost_Territories_Preview", "Memento_Pueritiae", "PirateSpookified", "NavCheckEnhanced"
   ],
   "Developer Tool": [
       "TABS_Camo_Creator_Prototype", "ModdingForDummies", "CASA", "CASA_Template"
