@@ -62,7 +62,7 @@
     "CustomContent_RoguelikeMode_Patch", "Skill_Control_Fix", "Quick_Boost", "SLMA_Core_Fix", "Revert_Seraphim_Nerf"
   ],
   "Gamemodes": [
-    "RoguelikeMode", "FreeForAll", "GladiatorManager", "MarathonMode"
+    "RoguelikeMode", "FreeForAll", "GladiatorManager", "MarathonMode", "TabsTeamfightTactics"
   ],
     "Online": [
     "Online_Mod_Plus_TABS", "Online_Mod"
