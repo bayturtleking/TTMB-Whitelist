@@ -49,7 +49,8 @@
     "fixmod", "PSE_Fix", "FactionSelectorPatch", "DangeModUnlockAll",
     "StarStamped", "Zeropurchase", "TeamColorChange", "DamageIndicator",
     "FPS_Counter_Mod", "SpookySort", "FailedLoadFix", "KeepTheSecrets",
-    "Reinforcements", "VanillaPlus", "Totally_Accurate_Quality_of_Life", "FriendlyFireToggle"
+    "Reinforcements", "VanillaPlus", "Totally_Accurate_Quality_of_Life", "FriendlyFireToggle",
+    "SQOL"
   ],
   "Performance": [
     "More_FPS", "Quick_Boost", "Smelter", "Hide_The_Evidence",
@@ -62,7 +63,7 @@
     "CustomContent_RoguelikeMode_Patch", "Skill_Control_Fix", "Quick_Boost", "SLMA_Core_Fix", "Revert_Seraphim_Nerf"
   ],
   "Gamemodes": [
-    "RoguelikeMode", "FreeForAll", "GladiatorManager", "MarathonMode", "TabsTeamfightTactics"
+    "RoguelikeMode", "FreeForAll", "GladiatorManager", "MarathonMode", "TabsTeamfightTactics", "ArenaRoyalePvP"
   ],
     "Online": [
     "Online_Mod_Plus_TABS", "Online_Mod"
