@@ -41,7 +41,7 @@
     "MoveEditor", "ColorFulUC", "Wasteland_Robots",
     "UCM", "UnitCreator", "EasyEditor", "Stitched_Items",
     "ClothCollider", "MoveEditorTool", "Unit_Appearance_Reset",
-    "Better_Tracing", "PossessInUC", "WeaponEditor"
+    "Better_Tracing", "PossessInUC", "WeaponEditor", "SUPER_CAT_Stats_Editor"
   ],
   "Quality of Life": [
     "FactionUnitSort", "FactionScroll", "Combat_Stats_Tracker", "UnlockAllSecrets",
