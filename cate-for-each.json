@@ -1,6 +1,9 @@
 {
   "Essential": [
-    "BepInExPack_TABS", "r2modman"
+    "BepInExPack_TABS"
+  ],
+  "Mod Managers": [
+    "GaleModManager", "r2modman"
   ],
   "Faction": [
     "modernization_port_by_lil_zalupa", "MarvelPrototype", "MilitaryForces", "HeMoDingDing_Mod",
@@ -9,8 +12,8 @@
     "Middle_Earth_Ring", "WinterFest", "Warhammer_40K", "Neon_faction",
     "Medieval2Spookified", "strange_thing", "Anime_Tabs", "DanJoMeShi",
     "Chinese_myth", "ColonialFaction", "Expansionary", "Nomads", "Anime Mods",
-    "Shuidimension", "Martial_Mod", "NarutoMod", "AnimalKingdom",
-    "Kaiju_Project", "YuanNian",
+    "Shuidimension", "Martial_Mod", "NarutoMod", "AnimalKingdom", "Subunits",
+    "Kaiju_Project", "YuanNian", "SkyfallArtillery",
     "JoJoMod", "PopCulture", "TerrariaMod", "Neon_Empire", "HorizonCarMod",
     "DuogeChinaMod", "SpyxFamily", "kingdomRush", "ChineseDynasties",
     "Dark_Void_Faction", "Star_Wars_Civil_War_TASW", "Random_Units", "DeflectGods",
@@ -28,7 +31,7 @@
     "WIP", "Home_Style_Wendigo_Birthday", "FlameHua_Birthday", "LegendsQuest",
     "JieBro", "AntMan", "ChickBeautiful", "SummonerCreator",
     "RandomUnit", "TABSGodMod", "SuperBoxerPlus", "HARDBARDS",
-    "DeflectShieldGod", "cost_renovation"
+    "DeflectShieldGod", "cost_renovation", "Fire_S_Mythos"
   ],
   "Abilities and Gear/Cosmetics": [
     "Mobility_Abilities", "Shining_Years_And_Days", "BulletproofSKills", "Turtle's Ability Loader (C#)", "AbilityCreator", "Runic_Spells", "Azzymoof_Historical_Weapon_Pack", "Thanos", "Randomstuff", "Longrangebullet",
@@ -74,7 +77,7 @@
     "Map_Editing_extender", "MapMayhem", "Unbound_Terrain", "Lost_Territories_Preview", "Memento_Pueritiae", "PirateSpookified", "NavCheckEnhanced", "Physics_Castle_Builder", "TABS_Bannerlord_Maps"
   ],
   "Developer Tool": [
-      "TABS_Camo_Creator_Prototype", "ModdingForDummies", "CASA", "CASA_Template"
+      "TABS_Camo_Creator_Prototype", "ModdingForDummies", "CASA", "CASA_Template", "UnityExplorer"
   ],
   "Other": [
     "TABS_Cinematic_Overhaul", "CustomMusic", "FantasyDefinitive", "AbyssalEyeMod",
