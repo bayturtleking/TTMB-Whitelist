@@ -55,7 +55,7 @@
     "StarStamped", "Zeropurchase", "TeamColorChange", "DamageIndicator",
     "FPS_Counter_Mod", "SpookySort", "FailedLoadFix", "KeepTheSecrets",
     "Reinforcements", "VanillaPlus", "Totally_Accurate_Quality_of_Life", "FriendlyFireToggle",
-    "SQOL", "BetterTimeControl", "TacticalDamageScaling"
+    "SQOL", "BetterTimeControl", "TacticalDamageScaling", "Super_Cat_Ultimate_Placement"
   ],
   "Performance": [
     "More_FPS", "Quick_Boost", "Smelter", "Hide_The_Evidence",
