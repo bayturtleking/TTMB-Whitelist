@@ -20,7 +20,8 @@
     "Naruto", "Anime_Girls", "CyberTABS", "AncientWars",
     "MySecrectUnits", "TASWGalacticCivilWar", "Rome", "MiddleEarthRing",
     "mythologymod", "SpookifiedMod", "modHalloweenUnits", "Expansionary_SimpleModified",
-    "Intreasting_Units", "Powerful_units", "MedievalPlus", "Zer0sUnits",
+    "Intreasting_Units", "Powerful_units", "MedievalPlus", "Zer0sUnits", "MoreGirlsMod",
+    
     "Interesting_Units", "Missing_Content", "ChouChou_s_Unit", "HiddenUnits",
     "MoreRandomunits", "BeybladeRevamped", "MULTIVERSE", "BlackMod_Slime", "Submerged", "ModernizationPortFullAuto",
     "ZombieMod"
@@ -45,7 +46,7 @@
     "MoveEditor", "ColorFulUC", "Wasteland_Robots",
     "UCM", "UnitCreator", "EasyEditor", "Stitched_Items",
     "ClothCollider", "MoveEditorTool", "Unit_Appearance_Reset",
-    "Better_Tracing", "PossessInUC", "WeaponEditor", "SUPER_CAT_Stats_Editor"
+    "Better_Tracing", "PossessInUC", "WeaponEditor", "SUPER_CAT_Stats_Editor", "SUPER_CAT_Data_Editor"
   ],
   "Quality of Life": [
     "FactionUnitSort", "FactionScroll", "Combat_Stats_Tracker", "UnlockAllSecrets",
@@ -55,7 +56,7 @@
     "StarStamped", "Zeropurchase", "TeamColorChange", "DamageIndicator",
     "FPS_Counter_Mod", "SpookySort", "FailedLoadFix", "KeepTheSecrets",
     "Reinforcements", "VanillaPlus", "Totally_Accurate_Quality_of_Life", "FriendlyFireToggle",
-    "SQOL", "BetterTimeControl", "TacticalDamageScaling", "Super_Cat_Ultimate_Placement", "Whats_that_mod"
+    "SQOL", "BetterTimeControl", "TacticalDamageScaling", "Super_Cat_Ultimate_Placement", "Super_Cat_Super_Placement", "Whats_that_mod"
   ],
   "Performance": [
     "More_FPS", "Quick_Boost", "Smelter", "Hide_The_Evidence",
