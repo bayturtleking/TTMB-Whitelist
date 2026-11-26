@@ -1,3 +1,17 @@
 [
-
+  {
+    "t": "Toybox Com. Props",
+    "tpid": 1,
+    "i": "https://ccdn.thunderstore.io/live/repository/icons/fern-ToyBox-2.0.0.png",
+    "from": "Toybox ZIPs",
+    "type": "mpack",
+    "d": "https://github.com/bayturtleking/TABS-turtle-ability-loader-Csharp/releases/download/toyboxcollect/turt_toybox_collect.zip",
+    "dpage": "https://github.com/bayturtleking/TABS-turtle-ability-loader-Csharp/releases/tag/toyboxcollect",
+    "dt": null,
+    "use_dt_from_tsmod": null,
+    "use_dt_from_tsmod_c": null,
+    "a": "TABS Community",
+    "de": "A pack of community Toybox props collected by BayTurtleKing. Extract and put into your Toybox props folder, which also accepts subfolders so you don't need to flatten anything.",
+    "r": null
+  }
 ]
